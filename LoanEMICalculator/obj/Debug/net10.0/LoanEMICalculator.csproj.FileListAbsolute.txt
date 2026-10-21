@@ -1,0 +1,14 @@
+C:\Users\DOD\source\repos\LoanEMICalculator\bin\Debug\net10.0\LoanEMICalculator.exe
+C:\Users\DOD\source\repos\LoanEMICalculator\bin\Debug\net10.0\LoanEMICalculator.deps.json
+C:\Users\DOD\source\repos\LoanEMICalculator\bin\Debug\net10.0\LoanEMICalculator.runtimeconfig.json
+C:\Users\DOD\source\repos\LoanEMICalculator\bin\Debug\net10.0\LoanEMICalculator.dll
+C:\Users\DOD\source\repos\LoanEMICalculator\bin\Debug\net10.0\LoanEMICalculator.pdb
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.AssemblyInfoInputs.cache
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.AssemblyInfo.cs
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.csproj.CoreCompileInputs.cache
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.dll
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\refint\LoanEMICalculator.dll
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.pdb
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\LoanEMICalculator.genruntimeconfig.cache
+C:\Users\DOD\source\repos\LoanEMICalculator\obj\Debug\net10.0\ref\LoanEMICalculator.dll
